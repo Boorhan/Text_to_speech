@@ -43,7 +43,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        int n=0;
+        int n=21;
+
 
         mEditText = findViewById(R.id.edit_text);
         mSeekBarPitch = findViewById(R.id.seek_bar_pitch);
