@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
-
+        //temp
         mEditText = findViewById(R.id.edit_text);
         mSeekBarPitch = findViewById(R.id.seek_bar_pitch);
         mSeekBarSpeed = findViewById(R.id.seek_bar_speed);
